@@ -26,7 +26,7 @@ let clothingFormMode = 'create';
 let clothingId = undefined;
 
 let currentClothing = {
-  name: '',
+  clothing: '',
   quantity: '',
   brand: '',
   price: '',
@@ -166,7 +166,7 @@ async function showClothing(id) {
         <li><b>Descripción:</b><p>${clothing.description}</p></li>
     </ul>
       `;
-  modalTitle.innerText = clothing.name;
+  modalTitle.innerText = clothing.clothing;
   handleLoader('hide');
 }
 

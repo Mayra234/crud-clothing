@@ -1,12 +1,21 @@
 {
   "clothings": [
     {
-      "id": 1,
-      "clothing": "Camisa",
-      "quantity": 2,
+      "clothing": "Pantalón",
+      "quantity": "4",
       "brand": "Gucci",
-      "price": 60000,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      "price": "250000",
+      "description": "Pantalón de tiro alto, con una manga blanca y otra gris.",
+      "id": 2
+    },
+    {
+      "name": "",
+      "quantity": "4",
+      "brand": "Gucci",
+      "price": "128000",
+      "description": "Pantalón de pretina alta con manchas cafes.",
+      "clothing": "Camisa",
+      "id": 3
     }
   ]
 }
