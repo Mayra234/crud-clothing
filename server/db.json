@@ -1,0 +1,12 @@
+{
+  "clothings": [
+    {
+      "id": 1,
+      "clothing": "Camisa",
+      "quantity": 2,
+      "brand": "Gucci",
+      "price": 60000,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+  ]
+}
